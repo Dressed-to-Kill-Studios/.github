@@ -1,0 +1,74 @@
+name: Bug report
+description: Found a bug? Report it here.
+labels: ["bug"]
+assignees: 
+  - karjon7
+
+body:
+  
+  - type: markdown
+    attributes:
+      value: |
+        # Disclaimer
+
+        ### Thank you for taking the time to fill out a report!
+
+        Please ensure the guidelines of this template are followed properly. 
+        This helps us greatly with identifying issues and resolving them much faster.
+        *Include as much information as you can.* If not enough information is given, your issue may be closed.
+
+        - **Do** have a descriptive title written above.
+        - **Do not** list multiple bugs in one issue. Please open a separate issue for each bug you encounter.
+        - **Do** first check [open](https://github.com/Dressed-to-Kill-Studios/Fully-Armed-Defense/issues?q=is%3Aopen+is%3Aissue+label%3Abug) and [closed](https://github.com/Dressed-to-Kill-Studios/Fully-Armed-Defense/issues?q=is%3Aissue+label%3Abug+is%3Aclosed) issues to make sure your bug has not already been addressed.
+        - **Do** ensure that any bugs found using a personal custom build also appear in the official version of the game.
+        - Finally, **do** make sure this bug is replicable in the latest version of the game: it may have already been patched in a previous version.
+        
+  - type: checkboxes
+    attributes:
+      label: Disclaimer Confirmation
+      description: By checking this box, you confirm you have read, understood, and followed the above disclaimer.
+      options:
+        - label: I have read, understood, and followed the above disclaimer.
+          required: true
+
+  - type: input
+    attributes:
+      label: Version of Bug
+      description: |
+        If you are unsure of the game version, it is listed on the title and pause menu.
+      placeholder: |
+        Version: 0.0.4
+    validations:
+      required: true
+  
+  - type: input
+    attributes:
+      label: System Info
+      description: Specify the OS, CPU, GPU, and memory space of your device. Information like this can be found in Task Manager.
+      placeholder: Windows 11 - Intel Core i5-10400F - NVIDIA GeForce GTX 1650 - 8.0 GB
+    validations:
+      required: true
+  
+  - type: textarea
+    attributes:
+      label: Issue Description
+      description: |
+        Describe your bug in detail. What doesn't work? What do you think is supposed to happen instead?
+        Include images or videos if applicable.
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: How to Replicate
+      description: |
+        List steps to recreate the bug in detail. **If the bug is not reproducible, the issue will be closed *immediately*.**
+    validations:
+      required: true
+  
+  - type: textarea
+    attributes:
+      label: Additional Information
+      description: Anything else we should know about your bug, leave it here.
+    validations:
+      required: false
