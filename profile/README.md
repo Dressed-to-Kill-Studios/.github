@@ -1,16 +1,24 @@
 # Dressed to Kill Studios (DTK)
 
-Welcome to the official GitHub repository of Dressed to Kill Studios!
+<div style="text-align: center;">
+    <img src="DTKLogoNoBG.svg" alt="DTK Logo" width="200">
+</div>
 
-![DTK Logo](profile/DTKLogo.svg)
+<div style="text-align: center;">
+    Welcome to the official GitHub repository of Dressed to Kill Studios!
+</div>
 
 ## About Us
 
-Dressed to Kill Studios (DTK) is a passionate game development studio dedicated to creating immersive and innovative retro and low-poly style games. With a love for the charm and simplicity of classic gaming, DTK aims to bring nostalgic yet fresh experiences to players of all ages.
+Dressed to Kill Studios (DTK) is a passionate game development studio founded in 2024. Our team consists of seasoned industry veterans and talented newcomers alike, united by a shared love for gaming and a drive to push the boundaries of creativity.
+
+Led by [Jon-Marc "karjon7" Redwood](https://github.com/karjon7), our studio was born out of a desire to recapture the magic of classic gaming while infusing it with modern design sensibilities. With a diverse range of backgrounds and expertise, our team brings together artists, programmers, designers, and storytellers who share a common goal: to create unforgettable gaming experiences.
+
+Driven by our collective passion and fueled by our dedication to quality and innovation, we strive to bring our unique vision to life in every project we undertake. Whether we're crafting intricate level designs, perfecting gameplay mechanics, or weaving compelling narratives, our team works tirelessly to ensure that each game we create is a labor of love that resonates with players around the world.
 
 ## Our Mission
 
-At DTK, our mission is to craft distinctive gaming experiences that captivate players and evoke a sense of nostalgia. We blend the charm of retro gaming with modern game design to create visually stunning, low-poly worlds that offer both depth and simplicity. Our goal is to deliver games that are not only fun to play but also memorable. We also take pride in providing transparency within all our projects, hoping to set an example and increase the practice of open source! All our projects are open source. Interested in how your favorite game of ours was coded? Find it in our [repositories](https://github.com/orgs/Dressed-to-Kill-Studios/repositories)!
+At DTK, our mission is to craft distinctive gaming experiences that captivate players and evoke a sense of nostalgia. We blend the charm of retro gaming with modern game design to create visually stunning, low-poly worlds that offer both depth and simplicity. Our goal is to deliver games that are not only fun to play but also memorable. We also take pride in providing transparency within all our projects, aiming to set a precedent and promote widespread adoption of open-source principles. Although all our projects are open source, please refer to each project's LICENSE file for specific licensing terms to ensure legal compliance and protection. Interested in how your favorite game of ours was coded? Find it in our [repositories](https://github.com/orgs/Dressed-to-Kill-Studios/repositories)!
 
 ## Our Vision
 
