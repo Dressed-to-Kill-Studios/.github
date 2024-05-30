@@ -1,7 +1,7 @@
 # Dressed to Kill Studios (DTK)
 
 <p align="center">
-    <img src="DTKLogoNoBG.svg" alt="DTK Logo" width="200">
+    <img src="profile/DTKLogoNoBG.svg" alt="DTK Logo" width="200">
 </p>
 
 <p align="center">
