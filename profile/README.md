@@ -1,12 +1,12 @@
 # Dressed to Kill Studios (DTK)
 
-<p align="center;">
+<p align="center">
     <img src="DTKLogoNoBG.svg" alt="DTK Logo" width="200">
 </p>
 
-<div style="text-align: center;">
-    Welcome to the official GitHub repository of Dressed to Kill Studios!
-</div>
+<p align="center">
+Welcome to the official GitHub repository of Dressed to Kill Studios!
+</p>
 
 ## About Us
 
