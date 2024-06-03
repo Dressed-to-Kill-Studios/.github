@@ -38,12 +38,9 @@ We envision a future where our retro and low-poly games inspire and connect play
 - **Description**: Fully Armed Defense is an engaging wave shooter where your mission is to protect the Harvester. Upgrade your character's abilities and weaponry to fend off increasingly challenging waves of enemies.
 - **Status**: In development
 
-<!--
-### [Project Name]
-- **Description**: Brief description of the project.
-- **Status**: Current status (e.g., in development, released, etc.).
-- **Technologies**: Technologies used in the project.
--->
+## Our Socials
+
+**[YouTube](https://www.youtube.com/channel/UC0dTQ_XYS6mFoJm2CPp2tOw)**: You can find promotional material, devlogs, behind-the-scenes content, and sneak peeks on our YouTube channel!
 
 ## Contact Us
 
