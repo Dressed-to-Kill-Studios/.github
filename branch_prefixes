@@ -1,0 +1,35 @@
+feat/: Short for "feature," used for new features or enhancements.
+Example: feat/add-login-page
+
+fix/: Used for bug fixes.
+Example: fix/button-not-working
+
+chore/: Used for routine tasks or maintenance work that does not affect the functionality directly (e.g., code cleanup, dependency updates).
+Example: chore/update-dependencies
+
+refactor/: Used when refactoring code without changing the functionality.
+Example: refactor/optimize-db-queries
+
+test/: Used for adding or updating tests.
+Example: test/add-user-controller-tests
+
+docs/: Used for documentation changes.
+Example: docs/update-readme
+
+style/: Used for style changes, such as formatting or code style consistency (does not affect logic).
+Example: style/fix-lint-errors
+
+perf/: Short for "performance," used for performance improvements.
+Example: perf/optimize-image-loading
+
+ci/: Used for Continuous Integration configurations or scripts.
+Example: ci/add-travis-config
+
+hotfix/: Used for critical bug fixes that need to be addressed immediately.
+Example: hotfix/security-vulnerability
+
+build/: Used for changes that affect the build system or external dependencies.
+Example: build/update-webpack-config
+
+release/: Used for preparing a new release.
+Example: release/1.0.0
