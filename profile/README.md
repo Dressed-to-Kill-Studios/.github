@@ -36,7 +36,7 @@ We envision a future where our retro and low-poly games inspire and connect play
 ### [Fully Armed Defense](https://github.com/Dressed-to-Kill-Studios/Fully-Armed-Defense)
 
 - **Description**: Fully Armed Defense is an engaging wave shooter where your mission is to protect the Harvester. Upgrade your character's abilities and weaponry to fend off increasingly challenging waves of enemies.
-- **Status**: In development
+- **Status**: Paused
 
 ## Our Socials
 
